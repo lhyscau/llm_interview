@@ -1,3 +1,5 @@
-Target: Find a decent job
+持续记录面经八股，欢迎交流
 
-From Zero to Hero
+**From Zero to Hero**
+
+![wechat](./figure/wechat.jpg)
